@@ -15,6 +15,7 @@ A personal collection of reusable AI-agent skills for software engineering workf
 | `debug-protocol` | `/debug-protocol` · "debug this" | Reproduces, isolates, investigates, and verifies the root cause of a bug systematically. |
 | `prototype` | `/prototype` · "prototype this idea" | Quickly builds a prototype to explore an idea or validate an approach. |
 | `tdd` | `/tdd` · "use TDD" | Guides development through failing tests, a minimal implementation, and refactoring. |
+| `learn-first` | `/learn-first` | Acts as an engineering mentor, guiding you through problem-solving, design decisions, and implementation while prioritizing your learning over automatic task completion. |
 
 > Use the slash trigger to invoke a skill explicitly. Natural-language triggers are descriptive examples; model-invoked skills may also activate automatically when their task matches.
 
